@@ -23,3 +23,18 @@ The goal of this workshop is to provide both theoretical as well as practical in
 | 11:25 - 11:35 | Medusa BCI                      | Víctor Martínez-Cagigal, Eduardo Santamaría Vázquez |
 | 11:35 - 11:40 | PyNTBCI / Dareplane             | Hanneke Scheppink, Jordy Thielen                    |
 | 11:40 - 12:00 | Live demos                      |                                                     |
+
+## Demos
+
+### Flickers on Top / Timeflux
+https://github.com/neuroergoISAE/FlickersOnTop
+
+https://timeflux.io/
+
+### Medusa BCI
+https://www.medusabci.com/
+
+### PyntBCI / Dareplane
+https://github.com/thijor/pyntbci
+
+https://github.com/bsdlab/Dareplane
