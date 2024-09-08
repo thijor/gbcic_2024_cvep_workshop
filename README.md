@@ -27,14 +27,15 @@ The goal of this workshop is to provide both theoretical as well as practical in
 ## Demos
 
 ### Flickers on Top / Timeflux
-https://github.com/neuroergoISAE/FlickersOnTop
-
-https://timeflux.io/
+- Flickers on Top GitHub: https://github.com/neuroergoISAE/FlickersOnTop
+- Timeflux website: https://timeflux.io/
 
 ### Medusa BCI
-https://www.medusabci.com/
+- Medusa BCI website: https://www.medusabci.com/
 
 ### PyntBCI / Dareplane
-https://github.com/thijor/pyntbci
-
-https://github.com/bsdlab/Dareplane
+- PyntBCI GitHub: https://github.com/thijor/pyntbci
+- PyntBCI documentation, tutorials and examples:
+- Dareplane GitHub: https://github.com/bsdlab/Dareplane
+- Dareplane project: https://neurotechlab.socsci.ru.nl/research/dareplane/
+- Dareplane article: Dold et al. (2024). A modular open-source software platform for BCI research with application in closed-loop deep brain stimulation. _arXiv_.
