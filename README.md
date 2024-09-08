@@ -42,4 +42,5 @@ The goal of this workshop is to provide both theoretical as well as practical in
 ### Dareplane
 - GitHub: https://github.com/bsdlab/Dareplane
 - Project: https://neurotechlab.socsci.ru.nl/research/dareplane/
-- Article: Dold et al. (2024). A modular open-source software platform for BCI research with application in closed-loop deep brain stimulation. _arXiv_.
+- Article: Dold et al. (2024). A modular open-source software platform for BCI research with application in closed-loop deep brain stimulation. _arXiv_ 
+https://doi.org/10.48550/arXiv.2408.01242
