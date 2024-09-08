@@ -37,7 +37,7 @@ The goal of this workshop is to provide both theoretical as well as practical in
 
 ### PyntBCI
 - GitHub: https://github.com/thijor/pyntbci
-- Documentation, tutorials and examples:
+- Documentation, tutorials and examples: https://thijor.github.io/pyntbci/
 
 ### Dareplane
 - GitHub: https://github.com/bsdlab/Dareplane
